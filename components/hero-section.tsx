@@ -69,8 +69,7 @@ export default function HeroSection() {
               as="p"
               className="mx-auto mt-8 max-w-2xl text-balance text-lg"
             >
-              Highly customizable components for building modern websites and
-              applications that look and feel the way you mean it.
+              2nd Year college student at AMACC FV. I love games. I love food. I love goth baddies.
             </TextEffect>
 
             <div className="mt-12 flex flex-col items-center justify-center gap-2 md:flex-row">
