@@ -2,39 +2,39 @@ import Link from 'next/link'
 
 const members = [
     {
-        name: 'Liam Brown',
-        role: 'Founder - CEO',
-        avatar: 'https://alt.tailus.io/images/team/member-one.webp',
+        name: 'MJ Ligayon',
+        role: 'ME',
+        avatar: 'me.jpg',
         link: '#',
     },
     {
-        name: 'Elijah Jones',
-        role: 'Co-Founder - CTO',
-        avatar: 'https://alt.tailus.io/images/team/member-two.webp',
+        name: 'Liam Felipe',
+        role: 'Frend hehe',
+        avatar: 'liam.jpg',
         link: '#',
     },
     {
-        name: 'Isabella Garcia',
-        role: 'Sales Manager',
-        avatar: 'https://alt.tailus.io/images/team/member-three.webp',
+        name: 'Redeniel Sauri',
+        role: 'Frend den hehe',
+        avatar: 'sauri.jpg',
         link: '#',
     },
     {
-        name: 'Henry Lee',
-        role: 'UX Engeneer',
-        avatar: 'https://alt.tailus.io/images/team/member-four.webp',
+        name: 'Miyer Bernabe',
+        role: 'Also frend hehe',
+        avatar: 'miyer.jpg',
         link: '#',
     },
     {
-        name: 'Ava Williams',
-        role: 'Interaction Designer',
-        avatar: 'https://alt.tailus.io/images/team/member-five.webp',
+        name: 'Mark Cerdena',
+        role: 'Frend den den hehe',
+        avatar: 'mark.jpg',
         link: '#',
     },
     {
-        name: 'Olivia Miller',
-        role: 'Visual Designer',
-        avatar: 'https://alt.tailus.io/images/team/member-six.webp',
+        name: 'Jaymarc Gososo',
+        role: 'Also frend den hehe',
+        avatar: 'gososo.jpg',
         link: '#',
     },
 ]
@@ -46,10 +46,10 @@ export default function TeamSection() {
                 <span className="text-caption -ml-6 -mt-3.5 block w-max bg-gray-50 px-6 dark:bg-gray-950">Team</span>
                 <div className="mt-12 gap-4 sm:grid sm:grid-cols-2 md:mt-24">
                     <div className="sm:w-2/5">
-                        <h2 className="text-3xl font-bold sm:text-4xl">Our dream team</h2>
+                        <h2 className="text-3xl font-bold sm:text-4xl">Ourdream team</h2>
                     </div>
                     <div className="mt-6 sm:mt-0">
-                        <p>During the working process, we perform regular fitting with the client because he is the only person who can feel whether a new suit fits or not.</p>
+                        <p>During class we like to hang out with each other. Making jokes and enjoying each other's company.</p>
                     </div>
                 </div>
                 <div className="mt-12 md:mt-24">
