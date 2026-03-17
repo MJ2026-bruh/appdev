@@ -5,37 +5,37 @@ const members = [
         name: 'MJ Ligayon',
         role: 'ME',
         avatar: 'me.jpg',
-        link: '#',
+        link: 'https://www.facebook.com/mj.ligayon/',
     },
     {
         name: 'Liam Felipe',
         role: 'Frend hehe',
         avatar: 'liam.jpg',
-        link: '#',
+        link: 'https://www.facebook.com/liam.felipe.3705',
     },
     {
         name: 'Redeniel Sauri',
         role: 'Frend den hehe',
         avatar: 'sauri.jpg',
-        link: '#',
+        link: 'https://www.facebook.com/blackdeniel360',
     },
     {
         name: 'Miyer Bernabe',
         role: 'Also frend hehe',
         avatar: 'miyer.jpg',
-        link: '#',
+        link: 'https://www.facebook.com/babybacon',
     },
     {
         name: 'Mark Cerdena',
         role: 'Frend den den hehe',
         avatar: 'mark.jpg',
-        link: '#',
+        link: 'https://www.facebook.com/markmasayda.cerdena',
     },
     {
         name: 'Jaymarc Gososo',
         role: 'Also frend den hehe',
         avatar: 'gososo.jpg',
-        link: '#',
+        link: 'https://www.facebook.com/jm.gososo123',
     },
 ]
 
@@ -43,7 +43,7 @@ export default function TeamSection() {
     return (
         <section className="bg-gray-50 py-16 md:py-32 dark:bg-transparent">
             <div className="mx-auto max-w-5xl border-t px-6">
-                <span className="text-caption -ml-6 -mt-3.5 block w-max bg-gray-50 px-6 dark:bg-gray-950">Team</span>
+                <span className="text-caption -ml-6 -mt-3.5 block w-max bg-gray-50 px-6 dark:bg-gray-950">Frends</span>
                 <div className="mt-12 gap-4 sm:grid sm:grid-cols-2 md:mt-24">
                     <div className="sm:w-2/5">
                         <h2 className="text-3xl font-bold sm:text-4xl">Ourdream team</h2>
@@ -76,7 +76,7 @@ export default function TeamSection() {
                                             href={member.link}
                                             className="group-hover:text-primary-600 dark:group-hover:text-primary-400 inline-block translate-y-8 text-sm tracking-wide opacity-0 transition-all duration-500 hover:underline group-hover:translate-y-0 group-hover:opacity-100">
                                             {' '}
-                                            Linktree
+                                            About me
                                         </Link>
                                     </div>
                                 </div>
